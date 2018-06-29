@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="StarBuck:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="StarBuck-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="StarBuck:war exploded" />
+    </root>
+  </artifact>
+</component>
